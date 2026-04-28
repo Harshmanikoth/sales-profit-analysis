@@ -31,9 +31,9 @@ dashboard-screenshots/
 
 ## Screenshots
 
-![Bussines_Performance_Dashboard]https://github.com/Harshmanikoth/sales-profit-analysis/blob/main/sales-profit-analysis/Dashboard%20ScreenShot/Bussiness_Performance_Dashboard.png
-![sales_Dashboard screenshot]file:///C:/Users/ashokan/Desktop/DA%20projects/sales-profit-analysis/Dashboard%20ScreenShot/sales_Dashboard(IMG).png
-![profit_Dashboard screenshot]file:///C:/Users/ashokan/Desktop/DA%20projects/sales-profit-analysis/Dashboard%20ScreenShot/Profit_Dashboard(IMG).png
+Bussines_Performance_Dashboard https://github.com/Harshmanikoth/sales-profit-analysis/blob/main/sales-profit-analysis/Dashboard%20ScreenShot/Bussiness_Performance_Dashboard.png
+sales_Dashboard screenshot https://github.com/Harshmanikoth/sales-profit-analysis/blob/main/sales-profit-analysis/Dashboard%20ScreenShot/Sales_Dashboard.png
+profit_Dashboard screenshot https://github.com/Harshmanikoth/sales-profit-analysis/blob/main/sales-profit-analysis/Dashboard%20ScreenShot/Profit_Dashboard.png
 
 ## Features
 
